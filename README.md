@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/md-irfan9s/md-irfan9s/refs/heads/master/coding%20Gif.gif" alt="GitHub Gif" width="250" height="250"/>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-irfan-7b0081325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-irfan-7b0081325/" height="30" width="40" /></a>
 </p>
 
